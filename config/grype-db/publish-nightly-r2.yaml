@@ -24,6 +24,8 @@ provider:
     - name: epss
     - name: fedora
     - name: github
+    - name: govulndb
+    - name: hummingbird
     - name: kev
     - name: mariner
     - name: minimos
